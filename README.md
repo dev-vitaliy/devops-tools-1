@@ -378,6 +378,7 @@ Monitoring & observability tools **track system health, performance, and securit
 🔹 **[AppDynamics](https://www.appdynamics.com/)** (Enterprise) – **AI-powered application performance monitoring**, offering deep visibility into distributed systems.  
 🔹 **[Sumo Logic](https://www.sumologic.com/)** (Enterprise) – **Cloud-native machine data analytics**, delivering real-time security and operational intelligence.  
 🔹 **[Dynatrace](https://www.dynatrace.com/)** (Enterprise) – **AI-driven full-stack monitoring**, offering automatic anomaly detection and deep observability.  
+🔹 **[WatchCron](https://watchcron.com/)** (Free & Enterprise) – **Cron job monitoring service**, alerting when scheduled tasks fail, run late, or stop running.  
 
 ---
 
